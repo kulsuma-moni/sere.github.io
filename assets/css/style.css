@@ -133,13 +133,13 @@ button:focus {
   padding: 14px 50px;
   background: #dbdbdb4d;
   border: none;
-  -webkit-box-shadow: none;
-          box-shadow: none;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   -ms-border-radius: 6px;
   -o-border-radius: 6px;
+  -webkit-box-shadow: 0 8px 15px #00000045;
+          box-shadow: 0 8px 15px #00000045;
 }
 
 .welcome_page .welcm_icon_box .left_icn {
@@ -302,6 +302,7 @@ button:focus {
   text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.3), 0px -4px 10px rgba(255, 255, 255, 0.3);
   line-height: 1.6;
   font-size: 24px;
+  color: #000;
 }
 
 .chestmere_area .overview_ctn .t_2 {
@@ -632,7 +633,7 @@ button:focus {
 
 .contact_area .contact_information p {
   font-size: 34px;
-  line-height: 1.5;
+  line-height: 1.6;
   color: #242323;
   font-weight: 400;
 }
@@ -641,6 +642,22 @@ button:focus {
   font-family: "Pacifico", cursive;
   color: red;
   font-size: 34px;
+}
+
+.contact_area .contact_information p .t_toop {
+  font-size: 50px;
+}
+
+.contact_area .contact_information p .t_botom {
+  font-size: 34px;
+}
+
+.contact_area .contact_information .rocky_cn_info {
+  font-size: 34px;
+}
+
+.contact_area .rocky_contact {
+  top: 8%;
 }
 
 .default_btn {

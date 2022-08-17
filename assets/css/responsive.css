@@ -136,6 +136,15 @@
   .chestmere_area .overview_ctn .t_1 .t_1_sp {
     font-size: 16px;
   }
+  .contact_area .contact_information p .t_toop {
+    font-size: 32px;
+  }
+  .contact_area .contact_information p .t_botom {
+    font-size: 22px;
+  }
+  .contact_area .contact_information .rocky_cn_info {
+    font-size: 17px;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -211,6 +220,15 @@
   }
   .welcome_page {
     height: 90vh;
+  }
+  .contact_area .contact_information p .t_toop {
+    font-size: 34px;
+  }
+  .contact_area .contact_information p .t_botom {
+    font-size: 22px;
+  }
+  .contact_area .contact_information .rocky_cn_info {
+    font-size: 22px;
   }
 }
 
