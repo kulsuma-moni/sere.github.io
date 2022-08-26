@@ -114,23 +114,23 @@ button:focus {
 }
 
 .welcome_page .welcm_icon_box .icon_box i {
-  font-size: 16px;
+  font-size: 14px;
   color: #CE1011;
 }
 
 .welcome_page .welcm_icon_box .icon_box span {
-  font-size: 14px;
+  font-size: 12px;
   color: #CE1011;
   font-weight: 600;
   text-transform: capitalize;
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .welcome_page .welcm_icon_box .icon_box .wel_btn {
-  font-size: 18px;
+  font-size: 14px;
   color: #CE1011;
   font-weight: 600;
-  padding: 14px 50px;
+  padding: 11px 30px;
   background: #dbdbdb4d;
   border: none;
   border-radius: 6px;
@@ -140,17 +140,18 @@ button:focus {
   -o-border-radius: 6px;
   -webkit-box-shadow: 0 8px 15px #00000045;
           box-shadow: 0 8px 15px #00000045;
+  width: 230px;
 }
 
 .welcome_page .welcm_icon_box .left_icn {
   position: absolute;
-  top: 5%;
+  top: 1%;
   left: 5%;
 }
 
 .welcome_page .welcm_icon_box .right_icn {
   position: absolute;
-  top: 5%;
+  top: 1%;
   right: 5%;
 }
 

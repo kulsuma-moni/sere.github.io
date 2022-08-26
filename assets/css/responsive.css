@@ -68,8 +68,9 @@
     right: 0%;
   }
   .welcome_page .welcm_icon_box .icon_box .wel_btn {
-    padding: 8px 16px;
+    padding: 8px 10px;
     font-size: 14px;
+    width: 150px;
   }
   .welcome_page .link_icon .icon_right a {
     padding: 10px 10px;
